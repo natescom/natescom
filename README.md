@@ -1,10 +1,14 @@
 # Quem eu sou?
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/natescom)](https://github.com/natescom) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-ferraz-6850311a1/)](https://www.linkedin.com/in/nathan-ferraz-6850311a1/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-C6396E?style=flat-square&labelColor=C6396E&logo=instagram&logoColor=white&link=https://www.instagram.com/tantan.mkv/)](https://www.instagram.com/tantan.mkv/)
 
-Me chamo é Nathan, com aquele 'h' entre o 't' e o 'a' fazendo com que meu nome seja quaaaaase um palíndromo. 🙃 
+<img style="float: right;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F25.media.tumblr.com%2Ftumblr_lxwjgpyIL41qftw0ho1_500.gif&f=1&nofb=1" width=300/>Me chamo é Nathan, com aquele 'h' entre o 't' e o 'a' fazendo com que meu nome seja quaaaaase um palíndromo. 🙃 
 
-- Pode me chamar de TanTan. 🍉 
+Pode me chamar de TanTan. 🍉 
 
 Sou graduando em Ciência da Computação pela Universidade Estadual do Sudoeste da Bahia, desenvolvedor Java e apaixonado por tecnologia e café. ☕
+
+
+
 
 ## Meus hobbies
 
@@ -14,7 +18,7 @@ Sou graduando em Ciência da Computação pela Universidade Estadual do Sudoeste
 
 ## Meus estudos
 
-Atualmente estudando aquele famoso pacote front-end JS+CSS+HTML e um pouco de Python entretanto tenho maior familiaridade com Java. Além de linguagens de programação, estudo conceitos que se relacionam com IHC como UX/UI e tenho conhecimento em algoritmo e estrutura da dados e um pouco com banco de dados.
+Atualmente estudando aquele famoso pacote front-end JS+CSS+HTML e um pouco de Python, entretanto tenho maior familiaridade com Java. Além de linguagens de programação, estudo conceitos que se relacionam com IHC como UX/UI e tenho conhecimento em algoritmo e estrutura da dados e um pouco com banco de dados.
 
 ## Meu Github
 
@@ -23,11 +27,11 @@ Aqui você vai encontrar a maior parte das minhas aventuras como programador, se
 ### Tecnologias
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="55" height="55" />     
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" /> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="55" height="55" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" width="55" height="55" />    
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="VsCode" width="55" height="55" />     
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50" />     
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" width="50" height="50" />    
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="VsCode" width="50" height="50" />     
 </p>
