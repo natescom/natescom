@@ -1,7 +1,7 @@
-# Quem eu sou?
+# Quem sou eu?
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/natescom)](https://github.com/natescom) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-ferraz-6850311a1/)](https://www.linkedin.com/in/nathan-ferraz-6850311a1/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-C6396E?style=flat-square&labelColor=C6396E&logo=instagram&logoColor=white&link=https://www.instagram.com/tantan.mkv/)](https://www.instagram.com/tantan.mkv/)
 
-<img style="float: right;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F25.media.tumblr.com%2Ftumblr_lxwjgpyIL41qftw0ho1_500.gif&f=1&nofb=1" width=300/>Me chamo é Nathan, com aquele 'h' entre o 't' e o 'a' fazendo com que meu nome seja quaaaaase um palíndromo. 🙃 
+<img align="right" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F25.media.tumblr.com%2Ftumblr_lxwjgpyIL41qftw0ho1_500.gif&f=1&nofb=1" width=300/>Me chamo é Nathan, com aquele 'h' entre o 't' e o 'a' que faz com que meu nome seja quaaaaase um palíndromo. 🙃 
 
 Pode me chamar de TanTan. 🍉 
 
