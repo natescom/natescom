@@ -15,7 +15,7 @@ Sou graduando em Ciência da Computação pela Universidade Estadual do Sudoeste
 
 ## Meus estudos
 
-Atualmente estudo aquele famoso pacote front-end de desenvolvimento Web: JS, CSS e HTML, um pouco de Python e Java que é onde tenho maior familiaridade. Além de linguagens, estudo conceitos que se relacionam com IHC, a exemplo de UX/UI e tenho conhecimento em algoritmo e estrutura da dados e um pouco com banco de dados.
+Atualmente estudo aquele famoso pacote front-end de desenvolvimento Web: JS, CSS e HTML, um pouco de Python e Java que é onde tenho maior familiaridade. Além de linguagens de programação, estudo conceitos de IHC, a exemplo de UX/UI, algoritmo e estrutura da dados e banco de dados.
 
 ## Meu github 
 
