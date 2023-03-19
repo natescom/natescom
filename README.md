@@ -1,6 +1,8 @@
 # Who am i?
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/natescom)](https://github.com/natescom) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-ferraz-6850311a1/)](https://www.linkedin.com/in/nathan-ferraz-6850311a1/)
-<img align="right" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F25.media.tumblr.com%2Ftumblr_lxwjgpyIL41qftw0ho1_500.gif&f=1&nofb=1" width=300/>My name is Nathan, with that 'h' between the 't' and the 'a' that makes my name almost a palindrome. 🙃 
+<img align="right" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F25.media.tumblr.com%2Ftumblr_lxwjgpyIL41qftw0ho1_500.gif&f=1&nofb=1" width=300/>
+
+My name is Nathan, with that 'h' between the 't' and the 'a' that makes my name almost a palindrome. 🙃 
 
 But you can call me TanTan. 🍉 
 
