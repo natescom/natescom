@@ -29,3 +29,5 @@ Here in my github you'll find all my deeds as a developer, including the oldest 
     	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" width="50" height="50" />    
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="VsCode" width="50" height="50" />     
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natescom&hide_progress=false&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
